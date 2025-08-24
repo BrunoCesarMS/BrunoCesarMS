@@ -1,4 +1,4 @@
-# Bruno
+# Bruno Cesar Machado da Silva
 <div>
   <a href="https://github.com/BrunoCesarMS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCesarMS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
